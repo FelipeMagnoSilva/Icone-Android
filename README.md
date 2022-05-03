@@ -1,4 +1,4 @@
 # IconeAndroid
  Projeto com HTML e CSS.
 
-Projeto criado durante o curso de HTML e CSS do canal Curso em Video.
+Página criada ultilizando HTML e CSS puros.
